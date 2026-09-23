@@ -21,6 +21,8 @@ import(rvest)
 import(stats)
 import(survival)
 importFrom(rvest,html_nodes)
-importFrom(utils,head)
-importFrom(utils,menu)
+importFrom(utils,
+  head,
+  menu
+)
 useDynLib(pda)

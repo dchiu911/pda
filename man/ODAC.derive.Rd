@@ -21,7 +21,7 @@ Generate pda UWZ derivatives
 }
 \details{
 Calculate and broadcast 1st and 2nd order derivative at initial bbar
-       for ODAC, this requires 2 substeps: 1st calculate summary stats (U, W, Z), 
+       for ODAC, this requires 2 substeps: 1st calculate summary stats (U, W, Z),
        2nd calculate derivatives (logL_D1, logL_D2)
 }
 \keyword{internal}

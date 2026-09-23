@@ -26,7 +26,6 @@ Imports: Rcpp (>= 0.12.19), stats, httr, rvest, jsonlite, data.table,
         numDeriv, metafor, Matrix, ordinal, plyr, tidyr, tibble, dplyr,
         geex, data.tree
 LinkingTo: Rcpp, RcppArmadillo, RcppEigen
-RoxygenNote: 7.3.3
 Encoding: UTF-8
 LazyData: true
 NeedsCompilation: yes
@@ -48,3 +47,4 @@ Author: Chongliang Luo [cre],
   Penn Computing Inference Learning (PennCIL) lab [cph]
 Repository: CRAN
 Date/Publication: 2025-12-06 15:30:01 UTC
+Config/roxygen2/version: 8.1.0
